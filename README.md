@@ -4,8 +4,11 @@
 button{
 	width:80px;font-weight:bold;font-size:48px;font-family:"Times New Roman";
 }
+
+
 </style>
 <script type="text/javascrip">
+
 </script>
 <head>
 <meta charset="UTF-8">
@@ -125,12 +128,13 @@ function equal(){
 		x = y/x
 	}
 }
+
 </script>
 </head>
 <body>
 	<table border = "1">
 		<tr>
-			<td style = "width:329px;padding:5px;font-size:56px;height:70px"><span id="table1"></span></td>
+			<td style = width:329px;padding:5px;font-size:56px;height:70px><span id="table1"></span></td>
 		</tr>
 	</table>
 	<table border = "1">
