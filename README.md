@@ -4,9 +4,6 @@
 button{
 	width:80px;font-weight:bold;font-size:48px;font-family:"Times New Roman";
 }
-.border{
-	width:329px;padding:5px;font-size:56px;height:70px;	
-}
 </style>
 <script type="text/javascrip">
 </script>
@@ -133,7 +130,7 @@ function equal(){
 <body>
 	<table border = "1">
 		<tr>
-			<td class="border"><span id="table1"></span></td>
+			<td style = "width:329px;padding:5px;font-size:56px;height:70px"><span id="table1"></span></td>
 		</tr>
 	</table>
 	<table border = "1">
